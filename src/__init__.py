@@ -1,0 +1,1 @@
+"""Offline RAG retrieval foundation."""
